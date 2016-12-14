@@ -1,6 +1,6 @@
 # carta-tn-us
 
-[Chattanooga Area Regional Transportation Authority (CARTA)](https://www.gocarta.org/) (Chattanooga, TN, US) GTFS data.
+Info about [Chattanooga Area Regional Transportation Authority (CARTA)](https://www.gocarta.org/) (Chattanooga, TN, US) GTFS data.
 
 ### Problem with CARTA data?
 
